@@ -39,7 +39,7 @@ export const portfolioData = {
   linkedin: "https://linkedin.com/in/jabir-imteyaz",
   github: "https://github.com/Jabir-05",
   githubUsername: "Jabir-05",
-  resumePath: "/Jabir-Imteyaz-Resume.pdf",
+  resumePath: "/Jabir_Imteyaz_Resume .pdf",
   location: "India",
   techStack: [
     "React",
