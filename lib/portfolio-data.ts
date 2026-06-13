@@ -230,7 +230,7 @@ export const portfolioData = {
     school: "Amity University",
     degree: "Bachelor of Technology in Computer Science",
     period: "2022 - 2026",
-    cgpa: "7.5",
+    cgpa: "7.61",
     note:
       "Academic foundation includes DSA, OOP, DBMS, computer networks, and operating systems, supporting both frontend work and broader engineering understanding."
   },
